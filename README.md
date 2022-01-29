@@ -1,3 +1,6 @@
+git config--global user.name "Andrew Keesling"
+git config--global user.email "andrew.keesling@mykenzie.snhu.edu"
+git config--global core.editor "code"
 - 👋 Hi, I’m @andrewkeesling
 - 👀 I’m interested in outdoors, family, and learning new things.
 - 🌱 I’m currently learning how to code thru Kenzie Academy.
